@@ -1,2 +1,2 @@
 # Sports-Hub
-A frontend webpage for sports page for CodeClause task1
+A frontend webpage for sports page for OasisInfoByte task1
